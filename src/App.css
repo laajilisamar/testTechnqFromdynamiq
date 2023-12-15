@@ -1,0 +1,35 @@
+.App-body {
+  background-size: 100% 100%;
+  background: url('/src/image/okk.avif');
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100%;
+  background-attachment: fixed;
+}
+
+.App-body h1 {
+  color: red;
+  font-size: 50px;
+  padding: 65px;
+  font-style: italic;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.App-body-p {
+  color: blue;
+  padding: 65px; 
+  font-size: 25px;
+  font-style: italic;
+  font-family: 'Times New Roman', Times, serif;
+  margin-top: auto;
+}
+
+.App-bodyF{
+  background-size: 100% 100%;
+
+background: url('/src/image/color.jpg');
+background-size: cover;
+background-repeat: no-repeat;
+height: 100%;
+background-attachment: fixed;
+}
